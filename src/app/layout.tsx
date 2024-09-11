@@ -13,7 +13,7 @@ const geistMono = localFont({
 
 export const metadata: Metadata = {
   title: {
-    template: "$ | Kefam",
+    template: "%s | Kefam",
     default: "Kefam"
   },
   description: "A social media for cafe and music enthusiasts",
